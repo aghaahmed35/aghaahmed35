@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Agha Ahmed
-- 👀 I’m interested in Android Development, Pythno, Web and Cyber Security 
-- 🌱 I’m currently learning Python and Cyber Security
+- 👀 I’m interested in Full Stack and AI-based projects 
+- 🌱 I’m currently learning AI
 - 📫 You can reach me through my email aghaahmed35@gmail.com
 
 <!---
